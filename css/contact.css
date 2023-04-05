@@ -1,0 +1,7 @@
+.big-map{
+	border: 0;
+    width: 100%;
+    position: relative;
+    height: 45rem;
+	filter: grayscale(20%) invert(95%);
+}
